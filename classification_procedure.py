@@ -1,4 +1,3 @@
-import yaml
 from langchain import HuggingFaceHub, OpenAI
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain, SequentialChain
