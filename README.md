@@ -11,9 +11,9 @@ This repository contains code for the paper [Conceptual Engineering Using Large 
 ## Installation
 Set the ‘OPENAI_API_KEY’ environment variable to your OpenAI account key, clone this repository, change directory into the repository directory, and then execute the following commands:
 ```
-$ python -m venv env
-$ source env/bin/activate
-$ pip install -r requirements.txt
+python -m venv env
+source env/bin/activate
+pip install -r requirements.txt
 ```
 
 ## License
