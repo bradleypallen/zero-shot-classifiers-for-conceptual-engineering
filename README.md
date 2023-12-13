@@ -2,7 +2,7 @@
  Experiments using prompt programming of large language models to implement targets of conceptual engineering as zero-shot chain-of-thought classifiers.
 
 ## Overview
-This repository contains code for the paper [Conceptual Engineering Using Large Language Models](https://arxiv.org/abs/2312.03749), accepted for presentation at the 5th Conference on Philosophy of Artificial Intelligence, Erlangen, 15 - 16 December 2023.
+This repository contains code for the paper [Conceptual Engineering Using Large Language Models](https://arxiv.org/abs/2312.03749), accepted for [presentation at the 5th Conference on Philosophy of Artificial Intelligence](phai_2023_slides.pdf), Erlangen, 15 - 16 December 2023.
 
 ## Requirements
 - Python 3.11 or higher. 
