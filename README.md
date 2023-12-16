@@ -104,8 +104,7 @@ http://www.iau.org/static/archives/releases/doc/iau0603.doc, 2006. Accessed: 202
 [15] Sally Haslanger. Gender and race: (what) are they? (what) do we want them to be? Noûs, 34(1):31–55,
 2000.
 
-[16] Homosaurus. ”women (https://homosaurus.org/v3/homoit0001509)”. https://homosaurus.org/v3/
-homoit0001509, 2023. Accessed: 2023-10-17.
+[16] Homosaurus. ”women (https://homosaurus.org/v3/homoit0001509)”. https://homosaurus.org/v3/homoit0001509, 2023. Accessed: 2023-10-17.
 
 [17] Marika Cifor and KJ Rawson. Mediating queer and trans pasts: The homosaurus as queer information
 activism. Information, Communication & Society, pages 1–18, 2022.
