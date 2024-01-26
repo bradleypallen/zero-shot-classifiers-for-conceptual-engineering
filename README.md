@@ -1,6 +1,8 @@
 # zero-shot-classifiers-for-conceptual-engineering
  Experiments using prompt programming of large language models to implement targets of conceptual engineering as zero-shot chain-of-thought classifiers.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10573957.svg)](https://doi.org/10.5281/zenodo.10573957)
+
 ## Overview
 This repository contains code for the paper [Conceptual Engineering Using Large Language Models](https://arxiv.org/abs/2312.03749), accepted for [presentation at the 5th Conference on Philosophy of Artificial Intelligence](phai_2023_slides.pdf), Erlangen, 15 - 16 December 2023.
 
